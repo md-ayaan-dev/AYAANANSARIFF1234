@@ -28,10 +28,7 @@
 
 🚀 Building projects and improving my development skills
 
-📚 Always learning, building, and growing
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ayaan-Ansari&theme=tokyonight)
+📚 Always learning, building, and growing.
 
  <!--
 **AYAANANSARIFF1234/AYAANANSARIFF1234** is a ✨ _special_ ✨ repository because its`README.md` (this file) appears on your GitHub profile.
