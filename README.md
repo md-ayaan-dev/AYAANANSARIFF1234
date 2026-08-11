@@ -63,11 +63,6 @@ Here are some ideas to get you started:
 - 🌱 Currently learning Advanced Full Stack  
 - 💬 Ask me about JavaScript, React, Node  
 - ⚡ Fun fact: I love building cool UI  
-🧠  Solving Data Structures & Algorithms problems
-
-🚀 Building projects and improving my development skills
-
-📚 Always learning, building, and growing
 
 ---
 - 🔭 I’m currently working on ...
