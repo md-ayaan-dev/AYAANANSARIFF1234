@@ -19,6 +19,13 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 ## About Me
+
+.
+
+🎓 BSc IT Student
+
+💻 Learning Java, Python, PHP,  DSA & Web Development
+
 🌱 Currently learning: Advanced Full Stack Development<br>
 
 🌱 Continuous Learning: Constantly exploring new technologies, frameworks, and best practices in software development.
