@@ -20,7 +20,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 ## About Me
 🌱 Currently learning: Advanced Full Stack Development<br>
-🌱 Continuous Learning: Constantly exploring new technologies, frameworks, and best practices in software development and machine learning
+🌱 Continuous Learning: Constantly exploring new technologies, frameworks, and best practices in software development.
+
+
 🧠  Solving Data Structures & Algorithms problems
 
 🚀 Building projects and improving my development skills
