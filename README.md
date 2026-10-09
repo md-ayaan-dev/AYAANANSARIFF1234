@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mohammad Ayaan Ansari 
 ## Front End Developer
- Passionate about creating efficient, scalable, and intelligent solutions using technologies like PHP, JavaScript, Python, Java, Node.js, Tailwind Css.Proficient in database management (PostgreSQL,MySQl) . I thrive on challenging problems, particularly in data structures and algorithms, debugging and delivering clean, maintainable code.
+ Passionate about creating efficient, scalable, and intelligent solutions using technologies like PHP, JavaScript, Python, Java, , Tailwind Css.Proficient in database management (PostgreSQL,MySQl) . I thrive on challenging problems, particularly in data structures and algorithms, debugging and delivering clean, maintainable code.
  <br>
 ## 🚀 Languages I Know
 
